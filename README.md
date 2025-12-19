@@ -1,2 +1,2 @@
 # unleashed-amazon-integration
-Automate inventory and order syncing with Unleashed Amazon Integration using SKUplugs. Reduce errors, sync stock in real time, and scale Amazon sales.
+[**Unleashed Amazon Integration with SKUplugs**](https://skuplugs.com/unleashed-amazon-integration/) helps businesses automate inventory and order management between Unleashed Inventory Software and Amazon Seller Central. It ensures real-time stock synchronization, accurate order imports, and seamless product mapping. By eliminating manual processes and reducing errors, SKUplugs enables faster fulfillment, better inventory control, and scalable Amazon operations for growing brands, manufacturers, and multichannel sellers.
